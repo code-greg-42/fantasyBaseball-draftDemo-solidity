@@ -1,6 +1,6 @@
 Smart Contract and scripts for a blockchain-based fantasy baseball site.
 
-All functions have been built into the front-end React app.
+All functions have been built into the front-end React app. A lot of the functionality of the React app centers around events.
 
 This smart contract is currently setup to run with one main owner calling all of the functions, but it could easily be changed to work with each user calling it directly.
 
